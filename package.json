@@ -1,0 +1,15 @@
+{
+  "name": "clay1337-onliner",
+  "version": "1.0.0",
+  "description": "Discord: clay#1000",
+  "main": "onliner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js11": "npm:discord.js@^11.6.2"
+  }
+}
